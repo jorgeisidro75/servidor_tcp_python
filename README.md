@@ -1,6 +1,9 @@
 # servidor_tcp_python
 prueba
 
+# Clonamos el repositorio
+git clone URL_repositorio
+
 ### Ejecución
 
 # Primero ejecutamos el servidor.py, en una terminal ejecutamos el siguiente comando:
